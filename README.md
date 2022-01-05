@@ -4,49 +4,24 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- The project requires you to follow the basics of EDA and study the loan data 
+- The background - Dataset shows the information on paid, current and charged off loans. Past loans (charged off and paid) are the ones that are the most useful here
+- Business Problem - With the past data, we are trying to study what variable to check when making an approval decision on the loan. It will help the company to make fruitful decisions and avoid any losses.
+- Dataset - Contains information on the borrowers, location, employment status, house ownership, salary etc.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Conclusion 1 from the analysis - We see that majority people taking loans are in the salary range of 40k - 50k
+- Conclusion 2 from the analysis - We see that people who live in rented house mostly opt for loans
+- Conclusion 3 from the analysis - Most of the loans taken/approved are of medium amount category
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
-## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
