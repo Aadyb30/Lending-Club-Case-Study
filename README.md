@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> The dataset for this case study consists of loan information. The dataset is studies by using the basics of EDA. This case study helps you to understand what are the factors possible to determine any possible loan defaulters in the future of the current dataset.
 
 
 ## Table of Contents
